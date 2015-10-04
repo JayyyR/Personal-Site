@@ -33,6 +33,11 @@ body, html
 	margin-bottom: 24px;
 }
 
+.col-big
+{
+	margin-bottom: 72px;
+}
+
 .about h5
 {
 	text-align: center;
